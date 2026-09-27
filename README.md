@@ -101,8 +101,4 @@ AI-generated outputs were treated as drafting and visualization assistance and r
 
 ## Disclaimer
 
-This project uses a simulated organizational environment, processes, roles, and operational information for educational and portfolio purposes. 
-
-It does not represent an actual organization's security environment, policy, audit, certification, or compliance determination. 
-
-Certain information has been redacted, generalized, or intentionally left as placeholders to protect sensitive information and demonstrate secure information-handling practices.
+This project uses a simulated organizational environment, processes, roles, and operational information for educational and portfolio purposes. It does not represent an actual organization's security environment, policy, audit, certification, or compliance determination. Certain information has been redacted, generalized, or intentionally left as placeholders to protect sensitive information and demonstrate secure information-handling practices.
