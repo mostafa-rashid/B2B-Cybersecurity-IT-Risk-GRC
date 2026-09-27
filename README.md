@@ -58,7 +58,7 @@ The project models security and operational workflows across data sanitization, 
 
 ### Data Sanitization Workflow
 
-![Data Sanitization Workflow](diagrams/Multi-Architecture_Data_Sanitization_Workflow.png)
+![Data Sanitization Workflow](diagrams/Data_Sanitization_Workflow.png)
 
 ### Parts Intake & Verification Pipeline
 
