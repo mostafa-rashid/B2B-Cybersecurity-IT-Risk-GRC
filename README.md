@@ -62,7 +62,7 @@ The project models security and operational workflows across data sanitization, 
 
 ### Parts Intake & Verification Pipeline
 
-![Parts Intake & Verification Pipeline](diagrams/Multi-Phase_Parts_Intake_Verification_Pipeline.png)
+![Parts Intake & Verification Pipeline](Diagrams/Parts_Intake_&_Verification_Pipeline.png)
 
 ### Threat Response Playbook
 
