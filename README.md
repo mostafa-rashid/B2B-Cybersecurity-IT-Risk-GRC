@@ -66,7 +66,7 @@ The project models security and operational workflows across data sanitization, 
 
 ### Threat Response Playbook
 
-![Threat Response Playbook](diagrams/Threat_Response_Playbook_Flow.png)
+![Threat Response Playbook](Diagrams/Threat_Response_Playbook.png)
 
 ## Supporting GRC Evidence
 
