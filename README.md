@@ -6,9 +6,9 @@
 
 The complete project documentation is provided as PDF deliverables:
 
-- **[Enterprise Information Security & ITAD Compliance Suite](documents/Apex_Enterprise_Information_Security_ITAD.pdf)**
-- **[Cyber Supply Chain Risk Management Framework](documents/Apex_Cyber_Supply_Chain_Risk_Management.pdf)**
-- **[Business Continuity & Disaster Recovery Framework](documents/Apex_Business_Continuity_Disaster_Recovery.pdf)**
+- **[Enterprise Information Security & ITAD Compliance Suite](Documents/Apex_Enterprise_Information_Security_ITAD.pdf)**
+- **[Cyber Supply Chain Risk Management Framework](Documents/Apex_Cyber_Supply_Chain_Risk_Management.pdf)**
+- **[Business Continuity & Disaster Recovery Framework](Documents/Apex_Business_Continuity_Disaster_Recovery.pdf)**
 
 *PDF documentation demonstrating cybersecurity, compliance, supply chain risk, and business continuity workflows.*
 
